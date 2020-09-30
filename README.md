@@ -1,3 +1,2 @@
 # Overlay
-This folder Overlay contain .Bit and .tcl file 
-addition,subtract,multiply,percent
+This folder Overlay contain .Bit and .tcl file for addition,subtract,multiply,percent
